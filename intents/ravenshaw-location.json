@@ -1,0 +1,48 @@
+{
+  "id": "d70ffa47-6075-4300-8393-30527add5d52",
+  "name": "ravenshaw-location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e902e416-2442-4f14-8dfd-ab4fcfc84281",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Ravenshaw location",
+          "url": "https://www.google.com/maps/place/%E0%AC%B0%E0%AD%87%E0%AC%AD%E0%AD%87%E0%AC%A8%E0%AD%8D%E0%AC%B8%E0%AC%BE+%E0%AC%AC%E0%AC%BF%E0%AC%B6%E0%AD%8D%E0%AD%B1%E0%AC%AC%E0%AC%BF%E0%AC%A6%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%B3%E0%AD%9F+Ravenshaw+University/@20.4634367,85.8960194,15z/data\u003d!4m5!3m4!1s0x0:0xe48e3475c7591d81!8m2!3d20.4634367!4d85.8960194"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ravenshaw University is a co-educational state university situated in Cuttack, Odisha on the eastern coast of India . Click on the link below to see the location on map."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telephony": false,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551764641,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e8cfe018-296f-41da-902b-0ac8e49aa02d",
+    "data": [
+      {
+        "text": "under graduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725123
+  },
+  {
+    "id": "2eb97cdf-9e05-4692-942c-0f9ca0fad33d",
+    "data": [
+      {
+        "text": "ug",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725123
+  },
+  {
+    "id": "a1dd2864-93f4-4ecd-82c9-c2219b144b17",
+    "data": [
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725123
+  },
+  {
+    "id": "e7747c43-7c03-4bf4-9c91-b4e218a45c4e",
+    "data": [
+      {
+        "text": "B.Sc",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725123
+  }
+]

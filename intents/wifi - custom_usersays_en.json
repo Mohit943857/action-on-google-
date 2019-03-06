@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9cd30dbb-698e-4c69-8472-55799c090591",
+    "data": [
+      {
+        "text": "tell me the Wi-Fi password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "af895738-7e7b-480e-b193-d15f1cfe960e",
+    "data": [
+      {
+        "text": "tell me the Wi-Fi password of it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79fdfed8-8b6f-4609-b260-4bd9532e1eee",
+    "data": [
+      {
+        "text": "password of wifi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730697
+  },
+  {
+    "id": "1693f6f0-2fc9-4d4e-ab78-46039948b783",
+    "data": [
+      {
+        "text": "wifi password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730697
+  },
+  {
+    "id": "cf09c202-8b62-459f-bd42-19ef66375c3e",
+    "data": [
+      {
+        "text": "Yes password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730697
+  },
+  {
+    "id": "51436490-da37-4cc4-96e5-d5ee006e9074",
+    "data": [
+      {
+        "text": "Do you need password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730697
+  }
+]

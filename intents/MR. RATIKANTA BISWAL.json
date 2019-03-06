@@ -1,0 +1,58 @@
+{
+  "id": "69327591-15f1-4681-be64-8cfb136092a2",
+  "name": "MR. RATIKANTA BISWAL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ee194c1-7655-4c0c-a8d0-98beef1e5c42",
+          "required": false,
+          "dataType": "@dept-itm",
+          "name": "dept-itm",
+          "value": "$dept-itm",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. RATIKANTA BISWAL",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/ratikanta%20sir.jpg?alt\u003dmedia\u0026token\u003da36e3cd4-3b1e-4659-a9cd-b219edec7c93",
+            "accessibilityText": "Ratikant Sir"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/ratikanta.biswal.37",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MR. Ratikanta Biswal is one of the most prominent teacher of the ITM department. He is well known for his knowledge in programming.He is one of the oldest teacher of the department."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551771991,
+  "fallbackIntent": false,
+  "events": []
+}

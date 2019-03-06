@@ -1,0 +1,33 @@
+{
+  "id": "9595249e-1383-4586-af06-18596b70de62",
+  "name": "GetEmail",
+  "auto": true,
+  "contexts": [
+    "await_email"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f93172d9-98ea-49db-9ff3-2d30bb7e6791",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551806889,
+  "fallbackIntent": false,
+  "events": []
+}

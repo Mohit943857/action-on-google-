@@ -1,0 +1,49 @@
+{
+  "id": "a5ce1196-b520-46e3-9ee7-398e11eac7cb",
+  "name": "organiser of utkal hacks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Emisha",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/Isometric%20Emisha%20Sky%20People.svg?alt\u003dmedia\u0026token\u003dac81812e-dfce-41d5-bed2-3d864b233306",
+            "accessibilityText": "emisha"
+          },
+          "buttons": [
+            {
+              "title": "Visit Emisha",
+              "openUrlAction": {
+                "url": "https://getemisha.tech/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Emisha is Organising Utkal Hacks"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551809381,
+  "fallbackIntent": false,
+  "events": []
+}

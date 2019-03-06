@@ -1,0 +1,101 @@
+{
+  "id": "914ca1f5-39b7-4768-bc6b-614f8ea56ef4",
+  "name": "email id",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "43424df9-0d18-433b-b632-272b769401d1",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Here is the list of people whom you can contact"
+        },
+        {
+          "type": "table_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "contact-email",
+          "columnProperties": [
+            {
+              "horizontalAlignment": "LEADING"
+            },
+            {
+              "horizontalAlignment": "LEADING"
+            }
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "text": "Vice Chancellor"
+                },
+                {
+                  "text": "vc@ravenshawuniversity.ac.in"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "CCD"
+                },
+                {
+                  "text": "sangeeta.rath@yahoo.com"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "Registrar"
+                },
+                {
+                  "text": "registrar@ravenshawuniversity.ac.in"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "DSW"
+                },
+                {
+                  "text": "dsw@ravenshawuniversity.ac.in"
+                }
+              ],
+              "dividerAfter": false
+            }
+          ],
+          "buttons": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551724446,
+  "fallbackIntent": false,
+  "events": []
+}

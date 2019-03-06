@@ -1,0 +1,49 @@
+{
+  "id": "e41dc261-7164-4f58-ba7f-4767383b9c9c",
+  "name": "MRS. SILPA PATRA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MRS. SILPA PATRA",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/silpa%20mam.jpg?alt\u003dmedia\u0026token\u003de2ed87a2-e12e-4c73-ad34-d166fb7a4448",
+            "accessibilityText": "Silpa mam"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/silpa.patra.7",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mrs. Silpa patra is a experienced demonstrator.She is very kind hearted .She teaches very well."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551773208,
+  "fallbackIntent": false,
+  "events": []
+}

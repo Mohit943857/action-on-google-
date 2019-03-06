@@ -1,0 +1,20 @@
+[
+  {
+    "value": "B.Sc ITM",
+    "synonyms": [
+      "B.Sc ITM",
+      "bsc",
+      "ug",
+      "undergraduate"
+    ]
+  },
+  {
+    "value": "M.Sc ITM",
+    "synonyms": [
+      "M.Sc ITM",
+      "msc",
+      "pg",
+      "post graduate"
+    ]
+  }
+]

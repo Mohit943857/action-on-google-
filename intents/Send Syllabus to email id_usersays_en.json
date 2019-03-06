@@ -1,0 +1,48 @@
+[
+  {
+    "id": "018a3edc-961b-4201-a78a-1cd16c806ce8",
+    "data": [
+      {
+        "text": "send the syllabus of ",
+        "userDefined": false
+      },
+      {
+        "text": "itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": false
+      },
+      {
+        "text": " to my ",
+        "userDefined": false
+      },
+      {
+        "text": "email id",
+        "alias": "email-id",
+        "meta": "@email-id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551803208
+  },
+  {
+    "id": "aa14526d-676e-4c98-9f5c-8694a1f9a5a0",
+    "data": [
+      {
+        "text": "Send Syllabus to ",
+        "userDefined": false
+      },
+      {
+        "text": "email id",
+        "alias": "email-id",
+        "meta": "@email-id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551803208
+  }
+]

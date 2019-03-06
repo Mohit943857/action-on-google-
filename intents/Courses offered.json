@@ -1,0 +1,40 @@
+{
+  "id": "cb796cd9-d74d-4434-9304-fdda694b4e36",
+  "name": "Courses offered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Send Syllabus to email id"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Department offers Undergraduate  B.Sc ITM  and Postgraduate M.Sc ITM programmes to its students."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551803164,
+  "fallbackIntent": false,
+  "events": []
+}

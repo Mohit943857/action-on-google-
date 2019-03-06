@@ -1,0 +1,144 @@
+[
+  {
+    "id": "4172a666-c6f5-4860-8583-11920a691c3c",
+    "data": [
+      {
+        "text": "MSc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "course fees",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730366
+  },
+  {
+    "id": "1ec2fdbe-a810-41d9-bea6-073a714ed2a6",
+    "data": [
+      {
+        "text": "fees",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Msc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551730366
+  },
+  {
+    "id": "3c416a64-be1c-4941-930a-028be9190a7a",
+    "data": [
+      {
+        "text": "course fees of MSc",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730366
+  },
+  {
+    "id": "e766efaf-d421-442e-88bd-56c201036c81",
+    "data": [
+      {
+        "text": "courses fees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Msc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729993
+  },
+  {
+    "id": "ed7ce18b-5408-4453-bf32-1819141eb763",
+    "data": [
+      {
+        "text": "course fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "MSc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729993
+  },
+  {
+    "id": "100a5798-2b74-4a18-b55e-1501772a13c0",
+    "data": [
+      {
+        "text": "Master of science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729645
+  },
+  {
+    "id": "f824405a-b9bb-4350-80ae-91921a7b2850",
+    "data": [
+      {
+        "text": "M.sc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729645
+  },
+  {
+    "id": "1c9dd6d0-686a-4e63-b599-b34a2e9378bb",
+    "data": [
+      {
+        "text": "MSc",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730366
+  }
+]

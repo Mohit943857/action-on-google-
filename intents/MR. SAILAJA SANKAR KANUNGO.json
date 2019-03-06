@@ -1,0 +1,50 @@
+{
+  "id": "1bc75187-d15b-4767-b823-50c1b396027d",
+  "name": "MR. SAILAJA SANKAR KANUNGO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. SAILAJA SANKAR KANUNGO",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/sailaza%20sir.jpg?alt\u003dmedia\u0026token\u003d7bd8f39e-1550-4b80-9ea0-c5d77ff5e70f",
+            "accessibilityText": "Sailaja Sir"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/sailajasankar.kanungo",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mr.Sailaja sankar is well known for his vast knowledge in mathematics.He have knowledge in mathematics,programming.He teaches both UG and Pg"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "telephony": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551783777,
+  "fallbackIntent": false,
+  "events": []
+}

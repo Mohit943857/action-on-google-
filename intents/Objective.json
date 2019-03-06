@@ -1,0 +1,28 @@
+{
+  "id": "ae1de304-1f96-46d1-828c-2f6e665900a8",
+  "name": "Objective",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The objective of our Department is not to make pupils think, but to make them think right. We encourage students to think outside of the proverbial box and learn it is ok to fail when breaking new ground and developing new ideas."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551783468,
+  "fallbackIntent": false,
+  "events": []
+}

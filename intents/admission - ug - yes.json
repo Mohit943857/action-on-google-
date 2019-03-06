@@ -1,0 +1,39 @@
+{
+  "id": "d486d5c9-c53f-4f75-a595-5f90375d97f2",
+  "parentId": "2c717a4e-e169-470f-a7a9-b651db0efa67",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - ug - yes",
+  "auto": true,
+  "contexts": [
+    "admission-ug-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-ug-yes",
+      "affectedContexts": [
+        {
+          "name": "admission-ug-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have you scored more than 55% in that exam?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551712517,
+  "fallbackIntent": false,
+  "events": []
+}

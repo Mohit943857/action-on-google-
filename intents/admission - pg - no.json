@@ -1,0 +1,33 @@
+{
+  "id": "b77b0eed-dcc8-4b6e-92ba-32cb38b89a1f",
+  "parentId": "5cac45d4-ca67-4a55-803d-14016ec3583a",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - pg - no",
+  "auto": true,
+  "contexts": [
+    "admission-pg-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-pg-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

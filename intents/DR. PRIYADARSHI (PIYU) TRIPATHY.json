@@ -1,0 +1,50 @@
+{
+  "id": "5ee132c6-2fec-49ee-824f-d4a3598637fa",
+  "name": "DR. PRIYADARSHI (PIYU) TRIPATHY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7081e0fc-2d23-4cc7-b5a3-9ea1b481e9b6",
+          "required": false,
+          "dataType": "@dept-itm",
+          "name": "dept-itm",
+          "value": "$dept-itm",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "DR. PRIYADARSHI (PIYU) TRIPATHY",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/hod.jpg?alt\u003dmedia\u0026token\u003dbcb06cb6-aaeb-4785-b197-9e0b212591cd",
+            "accessibilityText": "Hod Sir"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dr Priyadarshi Tripathy is the head of the department .He is well known for his vast knowledge in Informational technology.He has a vast knowledge in networking."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551797926,
+  "fallbackIntent": false,
+  "events": []
+}

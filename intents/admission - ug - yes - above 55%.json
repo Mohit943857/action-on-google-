@@ -1,0 +1,42 @@
+{
+  "id": "b6e5e1bb-0b6f-40f9-8345-1c3ab1d64d39",
+  "parentId": "d486d5c9-c53f-4f75-a595-5f90375d97f2",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - ug - yes - above 55%",
+  "auto": true,
+  "contexts": [
+    "admission-ug-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-ug-yes.admission-ug-yes-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f24d9da-7454-447d-9123-af82756931ba",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can get admission in BSC ITM. Anything else you want to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551712558,
+  "fallbackIntent": false,
+  "events": []
+}

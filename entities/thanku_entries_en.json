@@ -1,0 +1,25 @@
+[
+  {
+    "value": "thanku",
+    "synonyms": [
+      "thanku",
+      "thank you",
+      "thanks"
+    ]
+  },
+  {
+    "value": "bye bye",
+    "synonyms": [
+      "bye bye",
+      "bye",
+      "bey",
+      "gud bye"
+    ]
+  },
+  {
+    "value": "exit",
+    "synonyms": [
+      "exit"
+    ]
+  }
+]

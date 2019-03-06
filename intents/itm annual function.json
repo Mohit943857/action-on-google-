@@ -1,0 +1,50 @@
+{
+  "id": "6b32feeb-730a-4661-ba73-58bf02071e33",
+  "name": "itm annual function",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14f5bd30-6f42-45f6-88d4-4866446bbc29",
+          "required": false,
+          "dataType": "@dept-itm",
+          "name": "dept-itm",
+          "value": "$dept-itm",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Agneya 2019",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/agneya.jpg?alt\u003dmedia\u0026token\u003d86d31be3-b383-4b53-96e2-56c09557ed32",
+            "accessibilityText": "agneya"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The annual function of ITM department Agneya 2019 will be held on 6th March 2019 in Amphitheatre."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551810918,
+  "fallbackIntent": false,
+  "events": []
+}

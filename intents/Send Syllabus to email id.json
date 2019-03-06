@@ -1,0 +1,51 @@
+{
+  "id": "82062365-6309-4691-bdc3-5bb845017387",
+  "name": "Send Syllabus to email id",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_email",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f404d253-15bc-4356-a376-0c630165773c",
+          "required": false,
+          "dataType": "@email-id",
+          "name": "email-id",
+          "value": "$email-id",
+          "isList": false
+        },
+        {
+          "id": "ff4e7064-a1d6-4197-baba-4e9b1286268d",
+          "required": false,
+          "dataType": "@dept-itm",
+          "name": "dept-itm",
+          "value": "$dept-itm",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please type your E-mail Id."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551806650,
+  "fallbackIntent": false,
+  "events": []
+}

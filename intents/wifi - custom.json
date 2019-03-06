@@ -1,0 +1,33 @@
+{
+  "id": "ee448d4b-e0e9-450c-bcc3-b99d252d13b2",
+  "parentId": "86cb9cd1-e072-4726-b9a2-ecdfedfc4af2",
+  "rootParentId": "86cb9cd1-e072-4726-b9a2-ecdfedfc4af2",
+  "name": "wifi - custom",
+  "auto": true,
+  "contexts": [
+    "wifi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "wifi.wifi-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The password is ITM@9**8. Please don\u0027t share it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551730697,
+  "fallbackIntent": false,
+  "events": []
+}

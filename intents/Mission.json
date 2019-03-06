@@ -1,0 +1,28 @@
+{
+  "id": "0a2190fc-a9be-4d6f-ba9d-d59fc6c311b0",
+  "name": "Mission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The mission of our department is to enable innovations in ICT by creating a conducive and effective environment to help and assist industries to compete in the global market-place and fast moving technologies."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551783603,
+  "fallbackIntent": false,
+  "events": []
+}

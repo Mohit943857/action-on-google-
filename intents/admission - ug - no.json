@@ -1,0 +1,33 @@
+{
+  "id": "50369e78-d7c3-4027-83d4-ec27f1cbe4ba",
+  "parentId": "2c717a4e-e169-470f-a7a9-b651db0efa67",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - ug - no",
+  "auto": true,
+  "contexts": [
+    "admission-ug-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-ug-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry, You can\u0027t get admission without completing 12th or diploma. Anything else you want to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551711578,
+  "fallbackIntent": false,
+  "events": []
+}

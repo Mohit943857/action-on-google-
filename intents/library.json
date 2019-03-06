@@ -1,0 +1,29 @@
+{
+  "id": "2d509843-ed42-46be-b818-386a6ee2156a",
+  "name": "library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The department has its own library with over 3500 titles. Of late, all the books in the library have been barcoded, and the issue and return of the books have been automated."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551783551,
+  "fallbackIntent": false,
+  "events": []
+}

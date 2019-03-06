@@ -1,0 +1,33 @@
+{
+  "id": "f7049ed6-6dbc-43aa-b1c3-a397bc504623",
+  "parentId": "5cac45d4-ca67-4a55-803d-14016ec3583a",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - pg - yes",
+  "auto": true,
+  "contexts": [
+    "admission-pg-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-pg-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK. Then you can give the entrance exam and get admission."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551705958,
+  "fallbackIntent": false,
+  "events": []
+}

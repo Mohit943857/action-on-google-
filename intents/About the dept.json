@@ -1,0 +1,36 @@
+{
+  "id": "2c4bc3e0-6fd8-438c-b527-78166e97446c",
+  "name": "About the dept",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fdb7b35d-2ea5-47d8-99c8-288d24c57b62",
+          "dataType": "@dept-itm",
+          "name": "dept-itm",
+          "value": "$dept-itm",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure. The Department came into existence in the year 1999, with a view to foster a blend of Information Technology and Management courses. Such a mix of two pedagogically different subjects makes it unique in itself. The Department continuously ensures to prepare its students with values of learning, leadership and social responsibility."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551725537,
+  "fallbackIntent": false,
+  "events": []
+}

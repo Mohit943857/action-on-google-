@@ -1,0 +1,49 @@
+{
+  "id": "f1f0b648-f096-46a7-96da-9d304c2cdd58",
+  "name": "MS. ARCHITA MAHUNTA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MS. ARCHITA MAHUNTA",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/archita%20mam.jpg?alt\u003dmedia\u0026token\u003da0ffc08f-9230-4caa-9a21-07f0ed240006",
+            "accessibilityText": "archita Mam"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/archita.mahunta",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MS. Archita Mahunt is a well trained demonstrator.She teaches very well.Her way of teaching is very good."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551773719,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "d5248759-7b0c-4f87-a5d4-3868bfbd734a",
+    "data": [
+      {
+        "text": "facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551713727
+  },
+  {
+    "id": "9570a5ea-697f-4e8d-ae3f-b56099c2d383",
+    "data": [
+      {
+        "text": "is there is weather facility for other caste students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c82a50e-ac4f-4c9f-b9be-6eb56b015162",
+    "data": [
+      {
+        "text": "is there a facility for a CSE student",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84c1fd0a-f3d3-4b57-a5a3-26ad285ed4de",
+    "data": [
+      {
+        "text": "is there a facility of ",
+        "userDefined": false
+      },
+      {
+        "text": "SC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ST students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50fe39b5-6260-47d7-af8f-4e3fadec9b6e",
+    "data": [
+      {
+        "text": "facilities there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713727
+  },
+  {
+    "id": "c80f6159-b79e-4d04-9eaf-b9c47e265376",
+    "data": [
+      {
+        "text": "available facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713727
+  },
+  {
+    "id": "6ac6b21a-1134-48bf-8e5c-d95d466c3ed5",
+    "data": [
+      {
+        "text": "what are the advantages of reading there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713727
+  },
+  {
+    "id": "60c1296c-106e-4e86-b7a7-f2f33313d229",
+    "data": [
+      {
+        "text": "what are the facilities available there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713584
+  }
+]

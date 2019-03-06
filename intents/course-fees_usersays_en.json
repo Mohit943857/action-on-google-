@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0fe97af9-1966-42fb-b8a8-4f15783848f0",
+    "data": [
+      {
+        "text": "course fee",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": false
+      },
+      {
+        "text": " of ITM department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e642189-b3a4-4b78-908f-948d61022509",
+    "data": [
+      {
+        "text": "itm course fee",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729174
+  },
+  {
+    "id": "e2a8d9cf-2def-4c14-a679-b83ff53713f1",
+    "data": [
+      {
+        "text": "monthy payment of Itm",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551728828
+  },
+  {
+    "id": "36649ebd-3832-45ae-81da-d391bb16f5e8",
+    "data": [
+      {
+        "text": "fees of Itm",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551728828
+  },
+  {
+    "id": "b5a050ce-8584-4811-9036-b18593d9e025",
+    "data": [
+      {
+        "text": "course fee of Itm",
+        "alias": "course-fee",
+        "meta": "@course-fee",
+        "userDefined": true
+      },
+      {
+        "text": " ravenshaw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551728828
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "900c0003-8452-4138-b2b3-d3026da61402",
+    "data": [
+      {
+        "text": "bye",
+        "alias": "thanku",
+        "meta": "@thanku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b4f74b7-13c1-4560-99ef-8e4979016012",
+    "data": [
+      {
+        "text": "thank",
+        "alias": "thanku",
+        "meta": "@thanku",
+        "userDefined": true
+      },
+      {
+        "text": " you for your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551724807
+  },
+  {
+    "id": "56690f6e-3a5b-4616-9a5a-cff0f6227bbb",
+    "data": [
+      {
+        "text": "exit",
+        "alias": "thanku",
+        "meta": "@thanku",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551724807
+  },
+  {
+    "id": "1b5d326e-763b-4574-97b1-754409f37c95",
+    "data": [
+      {
+        "text": "thank",
+        "alias": "thanku",
+        "meta": "@thanku",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551724807
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "1c5379f4-32b2-43de-bf51-2420153e7cc8",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to The Department Of ITM, Ravenshaw University. How can I help you?",
+            "Hello! Welcome to The Department Of ITM, Ravenshaw University. How can I help you?",
+            "Good day! Welcome to The Department Of ITM, Ravenshaw University. What can I do for you today?",
+            "Greetings! Welcome to The Department Of ITM, Ravenshaw University.How can I assist?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551764298,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

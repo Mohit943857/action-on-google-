@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1abee565-3f57-4ba5-a72f-bea3ceffbeb8",
+    "data": [
+      {
+        "text": "what is itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "7473b5c7-70bc-4d63-83e3-b36a48852c2a",
+    "data": [
+      {
+        "text": "can you say something about Itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "d9f7a216-66e0-4531-b157-cbcea232bf5a",
+    "data": [
+      {
+        "text": "about it itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "8bb5cd02-01f9-41c7-9d17-7a8dd455546c",
+    "data": [
+      {
+        "text": "what about itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "040c8b00-5fec-4e42-9a7b-0f83192f2db1",
+    "data": [
+      {
+        "text": "say me about Itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "72d20c53-3f77-4f79-bb0b-70f5986ef60a",
+    "data": [
+      {
+        "text": "tell me",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ITM",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "5079bc73-06ee-4d26-8bc4-596e156e2be3",
+    "data": [
+      {
+        "text": "tell me something ",
+        "userDefined": false
+      },
+      {
+        "text": "about the information technology management department",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "7ac85273-d52d-4693-94e0-1159101822fa",
+    "data": [
+      {
+        "text": "itm details",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "a18f4df5-75a8-4ca0-ab51-33290de95e64",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "about department",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725537
+  },
+  {
+    "id": "701095d4-c29f-4398-8d00-67ac6643394b",
+    "data": [
+      {
+        "text": "anything about the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551719142
+  },
+  {
+    "id": "c4a87e5c-e5b5-4246-8542-1b0c86db71e6",
+    "data": [
+      {
+        "text": "how is the department of itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551719142
+  },
+  {
+    "id": "0c185188-8b51-46ed-b835-0e454d62d30c",
+    "data": [
+      {
+        "text": "say something about the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551699542
+  },
+  {
+    "id": "e17aa223-4c68-42fd-a8aa-c6a9c124e9bc",
+    "data": [
+      {
+        "text": "tell  something about itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551699542
+  },
+  {
+    "id": "44a549c1-0599-45b4-b3e3-41b8465d9125",
+    "data": [
+      {
+        "text": "tell me about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551699542
+  },
+  {
+    "id": "17669b30-6b16-4ee4-8482-9a9d1a143170",
+    "data": [
+      {
+        "text": "tell me something about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551699542
+  }
+]

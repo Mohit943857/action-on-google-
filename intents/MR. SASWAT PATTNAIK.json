@@ -1,0 +1,49 @@
+{
+  "id": "61a17724-1e91-4f25-8d2d-a5b7eeb9454f",
+  "name": "MR. SASWAT PATTNAIK",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. Saswat Pattnaik",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/saswat%20sir.jpg?alt\u003dmedia\u0026token\u003db28bd966-a8eb-45b3-b4a7-87e26e804b95",
+            "accessibilityText": "Saswat Sir"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/saswat.bapi",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MR. Saswat  Pattanik is one of the prominent lectures of the ITM department .He is well known for his knowledge in networking.He have vast knowledge in networks ."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551772888,
+  "fallbackIntent": false,
+  "events": []
+}

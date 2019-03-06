@@ -1,0 +1,33 @@
+{
+  "id": "e9650770-8052-484c-99ca-b9a30c7f84cc",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "sorry!, I did\u0027t get you , my master will send you the respected details.",
+            "Sorry ! , Right now there is some problem with the server we will get back to you.",
+            "Sorry !, the system is under modification we will get back to you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551726980,
+  "fallbackIntent": true,
+  "events": []
+}

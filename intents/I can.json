@@ -1,0 +1,22 @@
+{
+  "id": "1d3679a2-1ad8-4b76-8ddb-087115038822",
+  "name": "I can",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551783497,
+  "fallbackIntent": false,
+  "events": []
+}

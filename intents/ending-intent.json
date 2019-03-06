@@ -1,0 +1,42 @@
+{
+  "id": "5dbc4032-6259-4e0f-bad7-57083d788564",
+  "name": "ending-intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5c3c79a-c42d-4518-8cbe-f8604ccca51e",
+          "required": false,
+          "dataType": "@thanku",
+          "name": "thanku",
+          "value": "$thanku",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good bye ,Hope you will contact soon.",
+            "Hope we will talk again."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551802626,
+  "fallbackIntent": false,
+  "events": []
+}

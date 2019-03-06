@@ -1,0 +1,45 @@
+{
+  "id": "062f4ace-28df-40f5-a64b-f34423c21a93",
+  "parentId": "f51d9ac7-1a2c-4526-ad2b-3702936ab882",
+  "rootParentId": "f51d9ac7-1a2c-4526-ad2b-3702936ab882",
+  "name": "course-fees - custom-2",
+  "auto": true,
+  "contexts": [
+    "course-fees-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "course-fees.course-fees-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5edb5ce8-87ee-4d71-8ea8-ac901e1abef8",
+          "dataType": "@course-fee",
+          "name": "course-fee",
+          "value": "$course-fee",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An approx of 1lac for 2 years including hostility, travelling and other expenses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551730366,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

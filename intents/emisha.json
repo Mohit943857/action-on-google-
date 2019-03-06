@@ -1,0 +1,48 @@
+{
+  "id": "3e1dba65-d471-497a-9e8d-9b2a1e214970",
+  "name": "emisha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Emisha",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/emisha.jpg?alt\u003dmedia\u0026token\u003da483e306-9a4d-43b4-9573-c694b7fa52a5",
+            "accessibilityText": "Emisha"
+          },
+          "buttons": [
+            {
+              "title": "Visit Emisha",
+              "openUrlAction": {
+                "url": "https://getemisha.tech/"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Emisha is a non-profit tech community, that runs Free workshops, Special events, Seminars, Hackathon, Coding competitions etc. It also offers valuable leadership experiences, connections to professional organizations, networking opportunities, and special events that mold a student’s perspective and power of virtualization– during the college years and beyond. Their comunity is open to everyone who has a williingness to learn and passionate about tech. They also welcome those students who don\u0027t even belong to computer science so that can be a part of diverse network."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551810648,
+  "fallbackIntent": false,
+  "events": []
+}

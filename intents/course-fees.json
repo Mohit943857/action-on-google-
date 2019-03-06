@@ -1,0 +1,58 @@
+{
+  "id": "f51d9ac7-1a2c-4526-ad2b-3702936ab882",
+  "name": "course-fees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "course-fees-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3f35435b-de98-4816-93bb-603dcce0caa4",
+          "required": false,
+          "dataType": "@course-fee",
+          "name": "course-fee",
+          "value": "$course-fee",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "B.Sc"
+            },
+            {
+              "title": "M.Sc"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Who\u0027s course fee do you want to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551729383,
+  "fallbackIntent": false,
+  "events": []
+}

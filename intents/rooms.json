@@ -1,0 +1,40 @@
+{
+  "id": "1b263df9-cbf4-489c-9bc2-170d58c20a2e",
+  "name": "rooms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/rooms.gif?alt\u003dmedia\u0026token\u003d21931037-8876-46dd-a237-df2fe7583df0",
+            "accessibilityText": "room"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are 5 rooms 1 library room, 1 staff common room and 1 office room in the department."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551779962,
+  "fallbackIntent": false,
+  "events": []
+}

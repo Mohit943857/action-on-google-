@@ -1,0 +1,154 @@
+[
+  {
+    "id": "78cdb178-db9c-4979-97a8-ccac7f61b569",
+    "data": [
+      {
+        "text": "can i get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "msc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713204
+  },
+  {
+    "id": "9c4f94f2-7d0c-44fc-8185-dc9ab1d4d0a9",
+    "data": [
+      {
+        "text": "can i do ",
+        "userDefined": false
+      },
+      {
+        "text": "msc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      },
+      {
+        "text": " in itm ravenshaw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713022
+  },
+  {
+    "id": "7c97be0a-f52b-4628-aa36-269c4ab6981d",
+    "data": [
+      {
+        "text": "can i read in ",
+        "userDefined": false
+      },
+      {
+        "text": "pg",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713022
+  },
+  {
+    "id": "a92ad9c4-e362-49f3-9613-4725e95e1ea3",
+    "data": [
+      {
+        "text": "can i get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "pg",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713022
+  },
+  {
+    "id": "5310a5fa-63e4-49dd-a057-5eaa0def7ccc",
+    "data": [
+      {
+        "text": "admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "pg",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713022
+  },
+  {
+    "id": "dcb8ed80-d3eb-49c4-9650-b6f0a2f054d4",
+    "data": [
+      {
+        "text": "admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "msc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713022
+  },
+  {
+    "id": "f8b1a554-c204-456d-970f-cda3725e7de8",
+    "data": [
+      {
+        "text": "msc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551704078
+  },
+  {
+    "id": "18828541-e034-4df0-9cb3-5894bfe7ab34",
+    "data": [
+      {
+        "text": "pg",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551704078
+  },
+  {
+    "id": "cf87d500-57cd-46f0-a5d7-e3b0f680a8a0",
+    "data": [
+      {
+        "text": "post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551704078
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "a249f0a9-cd25-4b97-bd1e-b4c214a50f9f",
+  "name": "MISS V. SHWETA CHANDRIKA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Miss V.Shewta Chandrika",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/sweta%20mam.jpg?alt\u003dmedia\u0026token\u003dda8b20aa-a8d1-4000-a774-5fa11edc39a4",
+            "accessibilityText": "sweta mam"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/shweta.chandrika",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Miss shweta Chandrika one of the talented lecture in the department  .She  teaches both UG and PG.Mainly she teach management subjects."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551772712,
+  "fallbackIntent": false,
+  "events": []
+}

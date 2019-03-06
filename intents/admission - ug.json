@@ -1,0 +1,62 @@
+{
+  "id": "2c717a4e-e169-470f-a7a9-b651db0efa67",
+  "parentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - ug",
+  "auto": true,
+  "contexts": [
+    "admission-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom",
+      "affectedContexts": [
+        {
+          "name": "admission-ug-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2385230c-dc8f-41a1-8cde-62e70af62100",
+          "required": false,
+          "dataType": "@ITM",
+          "name": "ITM",
+          "value": "$ITM",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "bsc or msc"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "45ae720a-fc3e-41c5-b0a2-b9f1ac0e3b1e",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have you completed your 12th/ diploma ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551721730,
+  "fallbackIntent": false,
+  "events": []
+}

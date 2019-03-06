@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8f403c4c-6580-4892-a94f-3a7309cac520",
+    "data": [
+      {
+        "text": "Bando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91901a94-8649-46f5-8473-70a341094416",
+    "data": [
+      {
+        "text": "I need a gun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f1f2447-ed42-4703-9e07-9e9c9e9a650e",
+    "data": [
+      {
+        "text": "who is Cuttack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "40a63fd1-037b-4176-96f3-f94d3a62cc49",
+    "data": [
+      {
+        "text": "who is Tushar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

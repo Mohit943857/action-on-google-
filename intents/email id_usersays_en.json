@@ -1,0 +1,179 @@
+[
+  {
+    "id": "573197a4-5f6c-4ff7-a8dc-7080f2bf2902",
+    "data": [
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " id of itm department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551720931
+  },
+  {
+    "id": "6021b1b4-2e2f-464f-bbc9-040c3246ed92",
+    "data": [
+      {
+        "text": "contact ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551720601
+  },
+  {
+    "id": "96176f88-f623-41f5-a7d3-b68b5314d45c",
+    "data": [
+      {
+        "text": "whom to contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551720601
+  },
+  {
+    "id": "8e6ca6af-ac9d-445f-831c-632da7e4620e",
+    "data": [
+      {
+        "text": "e-",
+        "userDefined": false
+      },
+      {
+        "text": "mail",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " id of tm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551720601
+  },
+  {
+    "id": "a0877def-be13-4fac-928a-9ff2eb2dc10d",
+    "data": [
+      {
+        "text": "contact details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551720601
+  },
+  {
+    "id": "aecff8e1-8c06-4242-ae25-35170a37489e",
+    "data": [
+      {
+        "text": "tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " id of itm department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  },
+  {
+    "id": "cf60bef5-5303-4810-8506-0cf8de01a4ee",
+    "data": [
+      {
+        "text": "can you tell me about the e-mail id of the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  },
+  {
+    "id": "29846f3b-d65b-46fa-8a07-88f92a33b92e",
+    "data": [
+      {
+        "text": "how can i ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  },
+  {
+    "id": "a79759a9-5734-4f73-bf7c-c75eef66ec64",
+    "data": [
+      {
+        "text": "how can i contact the hod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  },
+  {
+    "id": "797f2579-cc07-4c8d-a9f6-a88354b6bbf1",
+    "data": [
+      {
+        "text": "email contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  },
+  {
+    "id": "275a1d5c-7e34-4b0d-a27d-e128b7498da3",
+    "data": [
+      {
+        "text": "tell me the email id of the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551715916
+  }
+]

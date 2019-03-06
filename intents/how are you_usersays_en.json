@@ -1,0 +1,26 @@
+[
+  {
+    "id": "008a4532-f479-4385-a7f2-f5a4dedb5d35",
+    "data": [
+      {
+        "text": "how are you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551802611
+  },
+  {
+    "id": "f6732245-99a2-46e0-92c0-2e3052beaea5",
+    "data": [
+      {
+        "text": "how are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551802611
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3356492d-b4b1-41d8-b0bc-3b39708e2a5e",
+    "data": [
+      {
+        "text": "department contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "53c93ef3-987d-4947-bc2e-aaf9c26d9dc7",
+    "data": [
+      {
+        "text": "mobile number to contact ITM department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "0503055c-626a-44fc-ae44-3ada6ceb3abb",
+    "data": [
+      {
+        "text": "tell me number of ITM department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "2acd62ab-77cc-4ffd-9326-fea13c8af5f6",
+    "data": [
+      {
+        "text": "can you tell me the mobile number of itm department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "352ea755-5e3b-4c62-a7d4-ec1f835456bd",
+    "data": [
+      {
+        "text": "tell me the mobile number of the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "a65d9fd7-d1fc-4a4a-9625-0bf55f87c992",
+    "data": [
+      {
+        "text": "tell me the contact no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  },
+  {
+    "id": "9a3289ab-3edf-43e9-9d39-1809bb313bb6",
+    "data": [
+      {
+        "text": "contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551722189
+  }
+]

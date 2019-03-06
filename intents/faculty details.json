@@ -1,0 +1,170 @@
+{
+  "id": "cdaac853-30fd-4f74-97b5-3f3ae869602b",
+  "name": "faculty details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Faculty members",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "DR. PRIYADARSHI (PIYU) TRIPATHY",
+              "description": "Email:- lina.piyu@gmail.com\nMobile No:- 9937285801\nReader \u0026 Co-ordinator",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/hod.jpg?alt\u003dmedia\u0026token\u003dbcb06cb6-aaeb-4785-b197-9e0b212591cd",
+                "accessibilityText": "Priyadarshi Sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "MR. MANAS PRASAD ROUT",
+              "description": "Email:- bapu8087@gmail.com\nMobile No:- 9861276581\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/manash%20sir.jpg?alt\u003dmedia\u0026token\u003da7385ac2-b1f8-4b02-9c5d-828a00178902",
+                "accessibilityText": "Manash sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "MR. SANTOSH KUMAR PAUL",
+              "description": "Email:- paulsantosh2003@yahoo.co.in\nMobile No:- 9861276581\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/santosh%20sir.jpg?alt\u003dmedia\u0026token\u003de9b9374e-4c9e-4211-94b6-c0769a4eb237",
+                "accessibilityText": "Santosh sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "MR. SAILAJA SANKAR KANUNGO",
+              "description": "Email:- sailajasankar123@gmail.com\nMobile No:- 9937641647\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/sailaza%20sir.jpg?alt\u003dmedia\u0026token\u003d7bd8f39e-1550-4b80-9ea0-c5d77ff5e70f",
+                "accessibilityText": "Sailaja sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "MISS V. SHWETA CHANDRIKA",
+              "description": "Email:- shwetachandrika@gmail.com\nMobile No:- 7894713925\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/sweta%20mam.jpg?alt\u003dmedia\u0026token\u003d615c50db-9a2b-437c-adc8-e73aec992b56",
+                "accessibilityText": "Shweta mam"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "DR. PRIYANKA TRIPATHY",
+              "description": "Email:- priyaimba.tripathy@gmail.com\nMobile No:- 9776083760\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/priyanka%20mam.jpg?alt\u003dmedia\u0026token\u003d65182822-f402-47bc-a44d-1803637e6a82",
+                "accessibilityText": "Priyanka mam"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "MR. RATIKANTA BISWAL",
+              "description": "Email:- rimun143@gmail.com\nMobile No:- 9437928680\nLecturer",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/ratikanta%20sir.jpg?alt\u003dmedia\u0026token\u003da36e3cd4-3b1e-4659-a9cd-b219edec7c93",
+                "accessibilityText": "Ratikanta sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "MR. SRIKANT BEJ",
+              "description": "Email:- srikantbej@yahoo.com\nMobile No:- 9861376767\nDemonstrator",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/bej%20sir.jpg?alt\u003dmedia\u0026token\u003df48694ce-a4d5-4b31-be02-1a0e6a1fde24",
+                "accessibilityText": "Srikant sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "MRS. SILPA PATRA",
+              "description": "Email:- silpapatra@yahoo.com\nMobile No:- 9861068186\nDemonstrator",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/silpa%20mam.jpg?alt\u003dmedia\u0026token\u003de2ed87a2-e12e-4c73-ad34-d166fb7a4448",
+                "accessibilityText": "Silpa mam"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "MR. SASWAT PATTNAIK",
+              "description": "Email:- saswat.bapi@gmail.com\nMobile No:- 9861610409\nDemonstrator",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/saswat%20sir.jpg?alt\u003dmedia\u0026token\u003db28bd966-a8eb-45b3-b4a7-87e26e804b95",
+                "accessibilityText": "Saswat sir"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "MS. ARCHITA MAHUNTA",
+              "description": "Email:- architamahunta@gmail.com\nMobile No:- 9439254495\nDemonstrator",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/archita%20mam.jpg?alt\u003dmedia\u0026token\u003da0ffc08f-9230-4caa-9a21-07f0ed240006",
+                "accessibilityText": "Archita mam"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is the details"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551809926,
+  "fallbackIntent": false,
+  "events": []
+}

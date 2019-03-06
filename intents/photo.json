@@ -1,0 +1,57 @@
+{
+  "id": "565a2349-12ae-4d76-a337-4c8838e3f7f8",
+  "name": "photo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Ravenshaw University",
+          "subtitle": "",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/ru1.jpg?alt\u003dmedia\u0026token\u003d38224503-4986-43aa-8f14-fdd8cb58c9fc",
+            "accessibilityText": "ru"
+          },
+          "buttons": [
+            {
+              "title": "Ravenshaw University",
+              "openUrlAction": {
+                "url": "http://www.ravenshawuniversity.ac.in",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Ravenshaw Images",
+          "url": "https://www.google.com/search?client\u003dfirefox-b-d\u0026biw\u003d1231\u0026bih\u003d785\u0026tbm\u003disch\u0026sa\u003d1\u0026ei\u003dvnx9XOynMP7Sz7sPgLSmyAM\u0026q\u003dravenshawuniversity+images\u0026oq\u003dravenshawuniversity+images\u0026gs_l\u003dimg.3...611816.614540..614785...0.0..0.206.1143.0j6j1......1....1..gws-wiz-img.NWgxxmawQ1c"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is one. You can click on the link bellow to see more images."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551728470,
+  "fallbackIntent": false,
+  "events": []
+}

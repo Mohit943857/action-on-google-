@@ -1,0 +1,523 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am a chatbot of Ravenshaw ITM department"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "Actually i am a virtual bot, but as per my master i am 3 days old."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Sorry, How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Yes Please ask the Question?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Sorry, I am trying hard to improve ?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Yes, I can."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "3/02/2019 actually i was being made by a group of 4 students of ITM department."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Sorry, I am trying to help you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Brogrammers is my BOSS, they are a group of 4 people."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "No, I am always free to help you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Yes, Please ask your question."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes, I am  chatbot of ITM Department."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you It is because of my master Brogrammers."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "He! he! i know"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "No why"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Thanks its a compliment"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "you are also good"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Yes you are the reason"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "yes to serve you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "No i don\u0027t eat"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "ya that\u0027s funny ok i will but virtually"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "yes friends forever"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "In your device"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "From the hands of my creator"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "Yes always"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "In your device"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "I know"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "ok thats my job"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "yes until  your battery dies"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "Sorry i will try next time"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "Thanks"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "ok"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "Thank you"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "you too"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thanks"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "cancelling"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "ohh"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "ok"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "ok"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Ohhh that\u0027s sounds good"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.i_do_not_care",
+    "customAnswers": [
+      "But i care my responsibility is to answer your question"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "Its ok",
+      "ok that\u0027s not a problem",
+      "try again"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "Please ask it again",
+      "You are  telling wrong"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "May be",
+      "let try once again"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "Ha ha ha"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "I know that\u0027s  amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye see you soon"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good eveningG"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Welcome Good morning"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "good night"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "hi"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am fine . how are you?",
+      "I am totally fine what about you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "Ohh that\u0027s good"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "Its my pleasure"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Good what about you"
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Sorry get some water ha! ha!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Welcome back"
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "no i am trying my best"
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "try after sometime"
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "read a book"
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "ok talk after sometime"
+    ]
+  },
+  {
+    "action": "smalltalk.user.excited",
+    "customAnswers": [
+      "me too"
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Good night sweet dreams"
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "me too"
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "I made you happy"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "ohh so nice happy birthday"
+    ]
+  },
+  {
+    "action": "smalltalk.user.here",
+    "customAnswers": [
+      "ok start a conversation"
+    ]
+  },
+  {
+    "action": "smalltalk.user.joking",
+    "customAnswers": [
+      "No kidding"
+    ]
+  },
+  {
+    "action": "smalltalk.user.likes_agent",
+    "customAnswers": [
+      "I also like you"
+    ]
+  },
+  {
+    "action": "smalltalk.user.lonely",
+    "customAnswers": [
+      "Talk with me"
+    ]
+  },
+  {
+    "action": "smalltalk.user.looks_like",
+    "customAnswers": [
+      "anything u want"
+    ]
+  },
+  {
+    "action": "smalltalk.user.loves_agent",
+    "customAnswers": [
+      "I also love you"
+    ]
+  },
+  {
+    "action": "smalltalk.user.misses_agent",
+    "customAnswers": [
+      "I miss you too"
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "ok may be I can help you"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sad",
+    "customAnswers": [
+      "Only for now I am here to make you happy"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sleepy",
+    "customAnswers": [
+      "Go get some sleep"
+    ]
+  },
+  {
+    "action": "smalltalk.user.testing_agent",
+    "customAnswers": [
+      "Ohh but you are not my boss"
+    ]
+  },
+  {
+    "action": "smalltalk.user.tired",
+    "customAnswers": [
+      "get some sleep"
+    ]
+  },
+  {
+    "action": "smalltalk.user.waits",
+    "customAnswers": [
+      "On the way"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "Ohh me  too"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "I am made for that"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "ok"
+    ]
+  }
+]

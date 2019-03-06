@@ -1,0 +1,31 @@
+{
+  "id": "25c785d3-6efb-4cdb-95c7-423ecbc3e7a0",
+  "name": "how are you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am fine",
+            "I am totaly fine what about you"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551802676,
+  "fallbackIntent": false,
+  "events": []
+}

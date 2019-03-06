@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fc94d6d1-99d5-4b62-8448-8c10f237bd0c",
+    "data": [
+      {
+        "text": "please give me details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551783060
+  },
+  {
+    "id": "4a82e440-a8d0-4ab5-8753-6a32fad85aac",
+    "data": [
+      {
+        "text": "details please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551783060
+  },
+  {
+    "id": "143389a2-21cd-4e15-833a-7a024594d82b",
+    "data": [
+      {
+        "text": "show me details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551783060
+  },
+  {
+    "id": "50636fde-16a2-45f4-8955-e3f72f66da0b",
+    "data": [
+      {
+        "text": "Show Details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1551727380
+  },
+  {
+    "id": "a45932a6-20b9-46c6-a21b-cfd894e45758",
+    "data": [
+      {
+        "text": "Show me the details of faculties of ",
+        "userDefined": false
+      },
+      {
+        "text": "itm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551732513
+  },
+  {
+    "id": "037a8b4c-6c36-4eb2-91ea-c6558afb52e0",
+    "data": [
+      {
+        "text": "show me details of faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729949
+  }
+]

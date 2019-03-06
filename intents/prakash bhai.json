@@ -1,0 +1,28 @@
+{
+  "id": "aefd2cca-e657-4a51-87ad-953c316060e3",
+  "name": "prakash bhai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "He is one the most helpful person in the department."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551774608,
+  "fallbackIntent": false,
+  "events": []
+}

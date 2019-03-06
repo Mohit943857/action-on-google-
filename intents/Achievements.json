@@ -1,0 +1,28 @@
+{
+  "id": "88bef068-d3b8-4718-8ee0-1f7521712ed8",
+  "name": "Achievements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Department has witnessed 80 percent student placement record since its origin. Some of the top recruiters last year were Deloitte, Cap-Gemini, Infosys, Wipro, TCS, Concentrix and Piramal Foundation. Last year 137 out of 192 students were recruited from our Department by several IT companies, and the current year also observes similar trend. Our students also actively engage in several extra-curricular activities. The department also holds seminars at regular intervals where eminent personalities from around the world have visited. Last year Prof. Bud Mishra, NYU, Prof. Punya Mishra, AZU have visited our department to address the students. Anything else i can do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551715648,
+  "fallbackIntent": false,
+  "events": []
+}

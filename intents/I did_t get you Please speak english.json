@@ -1,0 +1,20 @@
+{
+  "id": "c6b22e09-bdf4-467b-b13c-47804a750b39",
+  "name": "I did\u0027t get you Please speak english",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "3c0f4a2b-a0ed-4f35-80f3-639c98d3ff20",
+    "data": [
+      {
+        "text": "course fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "BSc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551729868
+  },
+  {
+    "id": "2ea151ea-60cc-4dcf-94c8-f08d32e4bc1d",
+    "data": [
+      {
+        "text": "course Fees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of Bachelor science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730165
+  },
+  {
+    "id": "b4744eee-3966-4cd2-9cb7-5978bfa711ff",
+    "data": [
+      {
+        "text": "fees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bsc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551730165
+  },
+  {
+    "id": "f91454fe-8bea-468b-b430-ce9e13598179",
+    "data": [
+      {
+        "text": "Course fees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "BSc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551730165
+  },
+  {
+    "id": "882349b8-e9db-4257-b868-a075b22bc697",
+    "data": [
+      {
+        "text": "B.sc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1551729347
+  },
+  {
+    "id": "b5001278-0a13-4132-9ec6-52f54a44c637",
+    "data": [
+      {
+        "text": "course fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of Bachelor science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729868
+  },
+  {
+    "id": "d294fca6-e2cd-4aec-9812-f2702342a0f7",
+    "data": [
+      {
+        "text": "fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "BSc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551729868
+  },
+  {
+    "id": "08ae871b-ef3e-4efd-bfb4-93225a80326d",
+    "data": [
+      {
+        "text": "BSc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551729722
+  },
+  {
+    "id": "f2af05d9-6f9c-47b4-b99e-fffa4669b19d",
+    "data": [
+      {
+        "text": "bachelor science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729347
+  },
+  {
+    "id": "906dc00e-84b2-4fef-b6c4-e7933366c568",
+    "data": [
+      {
+        "text": "Bachelor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551729347
+  }
+]

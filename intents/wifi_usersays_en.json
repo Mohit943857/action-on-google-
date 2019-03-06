@@ -1,0 +1,112 @@
+[
+  {
+    "id": "de560df3-6668-4462-8606-47161dd3c007",
+    "data": [
+      {
+        "text": "is there Wi-Fi in ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3da04a0-f820-43ee-b54a-0cae28f5bda3",
+    "data": [
+      {
+        "text": "does the department provide wifi to students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "190a6a21-71a4-4c06-8177-3303b2fa2f16",
+    "data": [
+      {
+        "text": "does the department provide internet facility to the students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "40b75c5c-bb88-423b-ab3d-a911b71ea4a2",
+    "data": [
+      {
+        "text": "wifi facility available or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "f0541bac-82b2-4f40-bf2c-15c0c2fab287",
+    "data": [
+      {
+        "text": "24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " * ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wifi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "1f604dcd-5b8f-48ad-8814-072c93118fb9",
+    "data": [
+      {
+        "text": "internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "6a5c6c56-77a1-4d59-9b4d-7a9728c127b8",
+    "data": [
+      {
+        "text": "wifi available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  },
+  {
+    "id": "ac677d18-5ee6-4302-bdf8-5acb06172bad",
+    "data": [
+      {
+        "text": "wifi is availavle or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551714110
+  }
+]

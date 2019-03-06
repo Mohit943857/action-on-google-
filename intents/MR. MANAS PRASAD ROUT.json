@@ -1,0 +1,49 @@
+{
+  "id": "1c567f8d-fa14-43c7-afa9-50beb3f4002a",
+  "name": "MR. MANAS PRASAD ROUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. MANAS PRASAD ROUT",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/manash%20sir.jpg?alt\u003dmedia\u0026token\u003da7385ac2-b1f8-4b02-9c5d-828a00178902",
+            "accessibilityText": "Manash Sir"
+          },
+          "buttons": [
+            {
+              "title": "Facebook",
+              "openUrlAction": {
+                "url": "https://www.facebook.com/manas.prasadrout",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Manas prasad rout is a lecture  both for Bsc and Msc . He is the most stylish and handsome teacher of the ITM department"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551772670,
+  "fallbackIntent": false,
+  "events": []
+}

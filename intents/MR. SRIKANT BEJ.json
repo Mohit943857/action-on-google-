@@ -1,0 +1,41 @@
+{
+  "id": "efc19d5b-09f0-47ac-ab07-af4d65d67505",
+  "name": "MR. SRIKANT BEJ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. SRIKANT BEJ",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/bej%20sir.jpg?alt\u003dmedia\u0026token\u003df48694ce-a4d5-4b31-be02-1a0e6a1fde24",
+            "accessibilityText": "Bej Sir"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MR. Srikant bej is the most talented and experienced Demonstrator of Itm department.He has great knowledge in database,networking etc.He is very helpuful and supportive."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551772623,
+  "fallbackIntent": false,
+  "events": []
+}

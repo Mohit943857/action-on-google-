@@ -1,0 +1,28 @@
+{
+  "id": "6abf572f-34c5-44e8-93f6-d09eccfe6b16",
+  "name": "vice-concellor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Prof. Ishan Kumar Patro is the vice Chancellor of Ravenshaw University."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551784280,
+  "fallbackIntent": false,
+  "events": []
+}

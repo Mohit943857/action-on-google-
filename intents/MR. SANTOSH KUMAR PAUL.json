@@ -1,0 +1,41 @@
+{
+  "id": "4ca2af5e-32f3-4524-8ee4-353dcab673bb",
+  "name": "MR. SANTOSH KUMAR PAUL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "MR. SANTOSH KUMAR PAUL",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/santosh%20sir.jpg?alt\u003dmedia\u0026token\u003de9b9374e-4c9e-4211-94b6-c0769a4eb237",
+            "accessibilityText": "Santosh sir"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MR. Santosh kumar paul  teaches both UG and PG students.He is very much experienced in teaching programming languages.His teaching style is the best in the department."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551772813,
+  "fallbackIntent": false,
+  "events": []
+}

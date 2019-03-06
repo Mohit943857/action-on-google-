@@ -1,0 +1,207 @@
+[
+  {
+    "id": "74889c34-b5ea-4e32-bf2b-fa2da936f7f7",
+    "data": [
+      {
+        "text": "can i read ",
+        "userDefined": false
+      },
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ae14b2-1324-41d0-ad05-c92576ea0dfc",
+    "data": [
+      {
+        "text": "can i read ",
+        "userDefined": false
+      },
+      {
+        "text": "bsc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c75c144c-44b1-4368-a57a-c52d7ef8eb43",
+    "data": [
+      {
+        "text": "admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "UG",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e45e971b-b329-4481-b40a-8d0846ca4152",
+    "data": [
+      {
+        "text": "can i read ",
+        "userDefined": false
+      },
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      },
+      {
+        "text": "  there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713503
+  },
+  {
+    "id": "72c42a0d-8b4d-41d8-a4df-e2f389272d72",
+    "data": [
+      {
+        "text": "can i get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "ug",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713503
+  },
+  {
+    "id": "157d6f26-dca9-40f5-9bed-acf0ad663101",
+    "data": [
+      {
+        "text": "can i get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      },
+      {
+        "text": " itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713503
+  },
+  {
+    "id": "fb083c1e-4794-46db-9ca2-28d8d4bffed6",
+    "data": [
+      {
+        "text": "can i get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551713503
+  },
+  {
+    "id": "4e7db6d2-0d50-44af-9047-897df988c258",
+    "data": [
+      {
+        "text": "after completing ",
+        "userDefined": false
+      },
+      {
+        "text": "12th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703744
+  },
+  {
+    "id": "9150027e-82cf-467a-9228-6f035b2f58ae",
+    "data": [
+      {
+        "text": "bachelor of science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703744
+  },
+  {
+    "id": "e9793b11-f215-42fd-a897-9396514b15c3",
+    "data": [
+      {
+        "text": "bsc",
+        "alias": "ITM",
+        "meta": "@ITM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703744
+  },
+  {
+    "id": "4fe12cbe-5c42-46bd-ab15-54191c867e1a",
+    "data": [
+      {
+        "text": "ug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703507
+  },
+  {
+    "id": "d7696849-f21a-48d1-afdb-644080f02046",
+    "data": [
+      {
+        "text": "under graduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703507
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "0e70e413-bd97-4bc0-ac98-b3b5e5993771",
+    "data": [
+      {
+        "text": "how a many employees are there in the itm department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551809144
+  },
+  {
+    "id": "0df3e4d0-f93b-4ad2-b20c-42acb2407ca7",
+    "data": [
+      {
+        "text": "how many employees are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "itm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551809144
+  },
+  {
+    "id": "1f26b6fc-c7aa-47b1-8609-4967cdb91752",
+    "data": [
+      {
+        "text": "who is Faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dca08b7e-2816-4b6b-9182-18e4979ae11d",
+    "data": [
+      {
+        "text": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551723031
+  },
+  {
+    "id": "ca5d0671-e80f-4e3a-9476-b1c72303d8b2",
+    "data": [
+      {
+        "text": "how many employee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  },
+  {
+    "id": "df963237-4bde-48f5-9cbc-9d78c4601fb8",
+    "data": [
+      {
+        "text": "lectures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  },
+  {
+    "id": "2e0ddf4f-68e5-4efb-836a-67c31c845ed4",
+    "data": [
+      {
+        "text": "numbers of teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  },
+  {
+    "id": "36255246-94ab-417f-b98c-db3646ace103",
+    "data": [
+      {
+        "text": "teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  },
+  {
+    "id": "1f835974-7bec-4c06-b9b5-8e0f15cfc668",
+    "data": [
+      {
+        "text": "how many faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  },
+  {
+    "id": "0d26dfef-9b90-4f12-b53b-3fb6f69a3eb8",
+    "data": [
+      {
+        "text": "member",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551723031
+  }
+]

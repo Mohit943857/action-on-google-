@@ -1,0 +1,33 @@
+{
+  "id": "4eb9980f-1204-4e20-bb9f-3e0add0ac177",
+  "parentId": "dc03b417-c7ce-4fea-bc7f-f827ad85e362",
+  "rootParentId": "dc03b417-c7ce-4fea-bc7f-f827ad85e362",
+  "name": "total strength -M.Sc",
+  "auto": true,
+  "contexts": [
+    "totalstrength-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "totalstrength.totalstrength-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The total intake capacity in M.Sc is 48 per year."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551726258,
+  "fallbackIntent": false,
+  "events": []
+}

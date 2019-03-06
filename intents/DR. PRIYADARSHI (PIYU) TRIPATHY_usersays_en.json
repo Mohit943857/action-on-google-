@@ -1,0 +1,285 @@
+[
+  {
+    "id": "fa762042-8e60-4cac-96a0-bf6caa26a1e1",
+    "data": [
+      {
+        "text": "who is the boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551780241
+  },
+  {
+    "id": "a0f48712-0d68-4348-bcf8-41b2dc1eb7fd",
+    "data": [
+      {
+        "text": "who is the HOD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3636f2d8-25f6-4ac3-a2c8-0d2e477d49ae",
+    "data": [
+      {
+        "text": "Piyu sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d93525f6-75db-4e9a-8d56-38a573dc4f0c",
+    "data": [
+      {
+        "text": "Piyu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551766946
+  },
+  {
+    "id": "40a63fd1-037b-4176-96f3-f94d3a62cc49",
+    "data": [
+      {
+        "text": "who is Piyu Sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7faf948f-57e1-4f7e-bed1-4d725e67474d",
+    "data": [
+      {
+        "text": "who is puyu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "572ef9f9-c528-4073-aa96-174076b6f9dc",
+    "data": [
+      {
+        "text": "Do you know HOD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7faf948f-57e1-4f7e-bed1-4d725e67474d",
+    "data": [
+      {
+        "text": "who is pu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad0fcef3-dbe5-4b8e-8b78-048bc3560bc4",
+    "data": [
+      {
+        "text": "Tell me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " about hod of ",
+        "userDefined": false
+      },
+      {
+        "text": "itm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "269a70a4-1df0-4832-b0f1-031e11234020",
+    "data": [
+      {
+        "text": "who is piyu sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "2faf27a0-783d-413d-b6ed-faf87b7fb608",
+    "data": [
+      {
+        "text": "tell me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " about the hod of itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "f1df0380-aff0-47e3-a9b5-fdc795d845dc",
+    "data": [
+      {
+        "text": "who is the head of School Of Information and computer science in ",
+        "userDefined": false
+      },
+      {
+        "text": "Ravenshaw university",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "d314ac54-10f2-4ca2-9ebd-cea90ce4a1c4",
+    "data": [
+      {
+        "text": "show me the dean of School Of Information and computer science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "084a6e82-18d1-4a60-8167-facc267a1a7a",
+    "data": [
+      {
+        "text": "itm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " department heaad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "9720beb4-18e9-4559-ace3-e5e0aebd4e9e",
+    "data": [
+      {
+        "text": "Who is the head of the department ",
+        "userDefined": false
+      },
+      {
+        "text": "itm",
+        "alias": "dept-itm",
+        "meta": "@dept-itm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551757503
+  },
+  {
+    "id": "dc866008-67db-441f-a616-569be34280ea",
+    "data": [
+      {
+        "text": "DR. PRIYADARSHI (PIYU) TRIPATHY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725391
+  },
+  {
+    "id": "7a3159a2-20aa-4459-813a-fb23d3451c0e",
+    "data": [
+      {
+        "text": "about priyadarshi tripathy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725585
+  },
+  {
+    "id": "df190b3d-221f-4bc0-be2c-7bebb0dd2919",
+    "data": [
+      {
+        "text": "about piyu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725585
+  },
+  {
+    "id": "568953d4-ed9a-41a5-8ec6-b13ea0758b51",
+    "data": [
+      {
+        "text": "Who is the head of the department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725585
+  },
+  {
+    "id": "2cda3a6f-ec6d-423a-8d16-8472d88355b7",
+    "data": [
+      {
+        "text": "piyu sir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551725585
+  },
+  {
+    "id": "66883ddd-a1f7-4b03-86f7-74b6c9c2e592",
+    "data": [
+      {
+        "text": "who is the hod of dept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551725585
+  }
+]

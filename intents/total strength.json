@@ -1,0 +1,49 @@
+{
+  "id": "dc03b417-c7ce-4fea-bc7f-f827ad85e362",
+  "name": "total strength",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "totalstrength-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "B.Sc"
+            },
+            {
+              "title": "M.Sc"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Who\u0027s Strength of B.Sc or M.Sc ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551726663,
+  "fallbackIntent": false,
+  "events": []
+}

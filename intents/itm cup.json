@@ -1,0 +1,41 @@
+{
+  "id": "0b262239-b7df-4c5f-83ef-9d863fd483d0",
+  "name": "itm cup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "ITM CUP 2019",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/itm%20buddy.jpg?alt\u003dmedia\u0026token\u003dd9e684cd-d68b-4cc0-a92e-f349ac587e7a",
+            "accessibilityText": "itm cup"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ITM cup was held from 1st march to 2nd march. ITM Buddies Won the tournament"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551811159,
+  "fallbackIntent": false,
+  "events": []
+}

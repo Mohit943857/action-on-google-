@@ -1,0 +1,49 @@
+{
+  "id": "f2dba121-2499-407b-98bd-af714a19320c",
+  "name": "utkal hacks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "UTKAL HACKS",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/utkal%20hacks.png?alt\u003dmedia\u0026token\u003d1ff46ee4-b894-490d-8caf-6009c631151b",
+            "accessibilityText": "Utkal hacks"
+          },
+          "buttons": [
+            {
+              "title": "Register",
+              "openUrlAction": {
+                "url": "https://utkalhacks.netlify.com/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "UtkalHacks is dedicated to providing a safe and comfortable environment and harassment-free experience for everyone, regardless of gender, gender identity, and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, political views etc. It\u0027s important because Hackathons are about solving problems, and it\u0027s our responsibility to provide inclusive environments where all genders can flourish. Now emisha is conducting the hackathon in Ravenshaw university."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551808884,
+  "fallbackIntent": false,
+  "events": []
+}

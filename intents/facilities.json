@@ -1,0 +1,28 @@
+{
+  "id": "c1e0f031-edf2-41b8-bcc7-6732877d9e75",
+  "name": "facilities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The department owes it success to its technical and infrastructural facilities. The dept. has its own library with over 3500 titles. Of late,all the books in the library have been barcoded, and the issue and return of the books have been automated. The department has an access to 24*7 Wi-Fi connectivity. There is a fully functional and well equipped computer lab, having 72 systems. Apart from all this,the department has to itself multimedia projectors, printer, portable audio systems, desktop, projector screens aiding towards the effective teaching-learning process."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551713727,
+  "fallbackIntent": false,
+  "events": []
+}

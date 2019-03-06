@@ -1,0 +1,41 @@
+{
+  "id": "098c6b72-d16d-4259-8895-dfadc08e20f4",
+  "name": "DR. PRIYANKA TRIPATHY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "DR. PRIYANKA TRIPATHY",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/hack1-fa06e.appspot.com/o/priyanka%20mam.jpg?alt\u003dmedia\u0026token\u003daebcc0a7-d9fe-47cd-ba06-671d692ecef2",
+            "accessibilityText": "Priyanka mam"
+          },
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DR. Priyanka tripathy is very good lecture who teaches management topics.She is very helpful in nature.she posses good communication power."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551798160,
+  "fallbackIntent": false,
+  "events": []
+}

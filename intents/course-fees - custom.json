@@ -1,0 +1,33 @@
+{
+  "id": "4e9d95d8-75fb-4189-bdf7-c2a1c2c84e7a",
+  "parentId": "f51d9ac7-1a2c-4526-ad2b-3702936ab882",
+  "rootParentId": "f51d9ac7-1a2c-4526-ad2b-3702936ab882",
+  "name": "course-fees - custom",
+  "auto": true,
+  "contexts": [
+    "course-fees-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "course-fees.course-fees-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An approx of 32,000 per year.  The total payment of 3 years is approx 1.5 lacs including hostality,travelling and other expenses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551730282,
+  "fallbackIntent": false,
+  "events": []
+}

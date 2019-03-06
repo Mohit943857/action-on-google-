@@ -1,0 +1,50 @@
+{
+  "id": "0724b0b4-bf6a-4b2c-8b54-dbe90e2bfae6",
+  "parentId": "dc03b417-c7ce-4fea-bc7f-f827ad85e362",
+  "rootParentId": "dc03b417-c7ce-4fea-bc7f-f827ad85e362",
+  "name": "total strength - Bsc",
+  "auto": true,
+  "contexts": [
+    "totalstrength-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "totalstrength.totalstrength-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f2f23f9-6212-433b-9308-caed6476d34c",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        },
+        {
+          "id": "8d847675-9e9e-4218-aa70-6f49859a214e",
+          "required": false,
+          "dataType": "@ITM",
+          "name": "ITM",
+          "value": "$ITM",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The total intake capacity in B.Sc is 272 per year."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551726232,
+  "fallbackIntent": false,
+  "events": []
+}

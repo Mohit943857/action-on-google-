@@ -1,0 +1,70 @@
+[
+  {
+    "id": "81acacb8-8581-44fb-91d2-9d0f7c5a30f5",
+    "data": [
+      {
+        "text": "rajkumar_02@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551806889
+  },
+  {
+    "id": "4d786325-4da0-4c4c-9203-aacdd35c4c6c",
+    "data": [
+      {
+        "text": "my Gmail id is ",
+        "userDefined": false
+      },
+      {
+        "text": "rajkumar.mk02@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551806889
+  },
+  {
+    "id": "dfec7f7a-2c91-4d9c-8fd6-ffd650c88c3b",
+    "data": [
+      {
+        "text": "email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "mohitkumar.943857@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551806889
+  },
+  {
+    "id": "1a293f7c-d763-4cd0-be2b-ca21fdeac1ef",
+    "data": [
+      {
+        "text": "my email id is ",
+        "userDefined": false
+      },
+      {
+        "text": "mohitkumar.sp02@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551806889
+  }
+]

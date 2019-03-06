@@ -1,0 +1,41 @@
+{
+  "id": "65aee2a3-8ca7-41ce-989e-7eef045e82e5",
+  "parentId": "d486d5c9-c53f-4f75-a595-5f90375d97f2",
+  "rootParentId": "2d278632-f8f6-452d-96dc-4b461e65e10a",
+  "name": "admission - ug - yes -below55",
+  "auto": true,
+  "contexts": [
+    "admission-ug-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission.admission-custom.admission-ug-yes.admission-ug-yes-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e47dc001-8903-4910-abef-449febb33c5e",
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry You can\u0027t get admission in BSC ITM if you have less than 55%"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551712102,
+  "fallbackIntent": false,
+  "events": []
+}

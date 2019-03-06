@@ -1,0 +1,30 @@
+{
+  "id": "2173b70d-88a2-4bb1-9512-08632aeffd0f",
+  "name": "about-ravenshaw",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ravenshaw is one of the oldest and best known centre for higher education in Odisha. It has a legacy of 147 years as a College and is proud to have trained some of the best minds. And yet, it is a young University which is hardly nine years old. Formal transition is complete; but the transformation is yet to take shape."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551812266,
+  "fallbackIntent": false,
+  "events": []
+}
